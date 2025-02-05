@@ -6,7 +6,7 @@
 - 💬 Ask me about **Data Analysis**, **Data Science** and  **Machine Learning**.
 - 📫 How to reach me: saibasaw@gmail.com
 - 🌠 Portfolio Website: https://s-sawadogo.github.io/
-- 💻 LinkedIn Profile: https://in/saiba-sawadogo
+- 💻 LinkedIn Profile: www.linkedin.com/in/saiba-sawadogo
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **Nothing is impossible to a willing heart!**
 
