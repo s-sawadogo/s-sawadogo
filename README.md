@@ -30,8 +30,17 @@ Here are some ideas to get you started:
 -->
 
 ## My Tools🧰
--Python: [Download here !](https://www.python.org/downloads/)
--R: [Download here !](https://cran.r-project.org/bin/windows/base/)
--PostgreSQL: [Download here !](https://www.postgresql.org/download/)
+![python](https://github.com/user-attachments/assets/d1961f5f-8adc-4bc9-b235-12dec5704059)
+
+![R](https://github.com/user-attachments/assets/3859e775-a681-49b3-b072-d1d9a3603b8d)
+
+![postgresql](https://github.com/user-attachments/assets/1f31636e-aee4-49c4-94d9-30a41555ebc0)
+
+![power bi](https://github.com/user-attachments/assets/74193f11-3525-47c5-b07c-1ac4ed037aa0)
+
+- Python: [Download here !](https://www.python.org/downloads/)
+- R: [Download here !](https://cran.r-project.org/bin/windows/base/)
+- PostgreSQL: [Download here !](https://www.postgresql.org/download/)
+- PowerBI: [Download here !](https://www.microsoft.com/fr-fr/power-platform/products/power-bi)
 
 
