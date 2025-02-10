@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <!--
 -->
-# Hi there, I'm Saïba Sawadogo 👋
+# Hi there, I'm Saïba SAWADOGO 👋
 
 ## About Me
 
