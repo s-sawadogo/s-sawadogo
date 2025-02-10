@@ -1,4 +1,4 @@
-
+<!--
 # My Awesome GitHub Profile
 
 ## Hi there 👋
@@ -31,6 +31,7 @@
 - PostgreSQL: [Download here !](https://www.postgresql.org/download/)
 - PowerBI: [Download here !](https://www.microsoft.com/fr-fr/power-platform/products/power-bi)
 
+-->
 
 <!--
 **s-sawadogo/s-sawadogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,21 +50,23 @@ Here are some ideas to get you started:
 
 
 <!--
-# Hi there, I'm Souleymane Sawadogo 👋
+-->
+# Hi there, I'm Saïba Sawadogo 👋
 
 ## About Me
 
-I am a passionate software developer with a love for creating innovative solutions and learning new technologies. With a strong background in computer science and a keen interest in open source projects, I strive to contribute to the tech community and make a positive impact through my work.
+I am a passionate Data Scientist with a love for creating innovative solutions and learning new technologies. With a strong background in programming, visualization and a keen interest in open source projects, I strive to contribute to the tech community and make a positive impact through my work.
 
 ## Skills
 
-- **Programming Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js, Express.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Programming Languages:** Python, SQL, R, SAS
+- **Visualization Tools:** Power BI, R-Shiny, GGplot2, Matplotlib, Seaborn, Plotly
+- **Web Development:** HTML, CSS
+- **Databases:** MySQL, PostgreSQL
 - **DevOps:** Docker, Kubernetes, CI/CD
-- **Cloud:** AWS, Azure, Google Cloud
-- **Other Tools:** Git, GitHub, VS Code, JIRA, Trello
-
+- **Cloud:** AWS, Azure
+- **Other Tools:** Git, GitHub, VS Code, Sublime Text
+<!--
 ## Projects
 
 Here are some of my notable projects:
@@ -71,16 +74,16 @@ Here are some of my notable projects:
 1. **Project A** - A brief description of Project A and its features.
 2. **Project B** - A brief description of Project B and its features.
 3. **Project C** - A brief description of Project C and its features.
-
+-->
 You can find more of my projects on my [GitHub profile](https://github.com/s-sawadogo).
 
 ## Get in Touch
 
-- **Email:** s.sawadogo@example.com
+- **Email:** saibasaw@gmail.com
 - **LinkedIn:** [linkedin.com/in/s-sawadogo](https://linkedin.com/in/s-sawadogo)
-- **Twitter:** [twitter.com/s_sawadogo](https://twitter.com/s_sawadogo)
+- **Portfolio:** [https://s-sawadogo.github.io/](Portfolio)
 
 Feel free to reach out if you have any questions, opportunities, or just want to connect!
 
 Thanks for visiting my profile! 😊
--->
+
