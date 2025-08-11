@@ -64,7 +64,7 @@ I am a passionate Data Scientist with a love for creating innovative solutions a
 - **Web Development:** HTML, CSS
 - **Databases:** MySQL, PostgreSQL
 - **DevOps:** Docker, Kubernetes, CI/CD
-- **Cloud:** AWS, Azure
+- **Cloud:** AWS, GCP
 - **Other Tools:** Git, GitHub, C++, VS Code, Sublime Text
 <!--
 ## Projects
