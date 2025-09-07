@@ -81,7 +81,7 @@ You can find more of my projects on my [GitHub profile](https://github.com/s-saw
 
 - **Email:** saibasaw@gmail.com
 - **LinkedIn:** [linkedin.com/in/s-sawadogo](https://linkedin.com/in/s-sawadogo)
-- **Portfolio:** [https://s-sawadogo.github.io/](Portfolio)
+- **Portfolio:** [https://s-sawadogo.github.io/](https://s-sawadogo.github.io/)
 
 Feel free to reach out if you have any questions, opportunities, or just want to connect!
 
