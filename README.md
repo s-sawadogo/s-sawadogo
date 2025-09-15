@@ -60,12 +60,12 @@ I am a passionate Data Scientist with a love for creating innovative solutions a
 ## Skills
 
 - **Programming Languages:** Python, SQL, R, SAS
-- **Visualization Tools:** Power BI, R-Shiny, GGplot2, Matplotlib, Seaborn, Plotly
+- **Visualization Tools:** Power BI, R-Shiny, GGplot2, Matplotlib, Seaborn, Plotly, Streamlit
 - **Web Development:** HTML, CSS
-- **Databases:** MySQL, PostgreSQL
+- **Databases:** MySQL, PostgreSQL, DuckDB
 - **DevOps:** Docker, Kubernetes, CI/CD
-- **Cloud:** AWS, GCP
-- **Other Tools:** Git, GitHub, C++, VS Code, Sublime Text
+- **Cloud:** GCP, AWS
+- **Other Tools:** Git, GitHub, GitLab, C++, VS Code, Sublime Text
 <!--
 ## Projects
 
