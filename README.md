@@ -65,7 +65,9 @@ I am a passionate Data Scientist with a love for creating innovative solutions a
 - **Databases:** MySQL, PostgreSQL, DuckDB
 - **DevOps:** Docker, Kubernetes, CI/CD
 - **Cloud:** GCP, AWS
-- **Other Tools:** Git, GitHub, GitLab, C++, VS Code, Sublime Text
+- **Big Data:** Spark
+- **Pipelines orchestration:** Airflow
+- **Other Tools:** Git, GitHub, GitLab, VS Code, Sublime Text
 <!--
 ## Projects
 
@@ -75,7 +77,7 @@ Here are some of my notable projects:
 2. **Project B** - A brief description of Project B and its features.
 3. **Project C** - A brief description of Project C and its features.
 -->
-You can find more of my projects on my [GitHub profile](https://github.com/s-sawadogo).
+You can find more on my projects through my [GitHub profile](https://github.com/s-sawadogo).
 
 ## Get in Touch
 
